@@ -28,6 +28,7 @@ def circulate():
 ~~~
 
 ## Output:
-![output]()
+![output](https://github.com/21001052/Circulate-the-values-of-N-variables/blob/main/Screenshot%20(14).png?raw=true)
 
 ## Result:
+Thus a python program to circulate the n variables using function concept is succesfully executed
